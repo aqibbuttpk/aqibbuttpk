@@ -49,7 +49,7 @@ With over a decade of experience, I specialize in delivering cutting-edge **AI s
   <a href="https://aqibbuttpk.github.io/">
     <img src="https://img.shields.io/badge/website-aqibbuttpk.github.io-black?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
-  <a href="mailto:aqibbuttpk@gmail.com">
+  <a href="mailto:aqibbuttus@gmail.com">
     <img src="https://img.shields.io/badge/email-aqibbuttpk@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/aqibbuttpk/">
