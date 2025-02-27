@@ -1,18 +1,12 @@
-Certainly! Here's a redesigned and more visually appealing version of your GitHub README. I've added modern badges, improved the layout, and made it more engaging while keeping all the essential information intact.
-
----
 
 <h1 align="center">Hi There! I'm Aqib! <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" width="40" height="35"></h1>
 
-<p align="center">
-  <img src="/picture.jpg" width="400" alt="Aqib Javed">
-</p>
+ 
 
 <p align="center">
   <a href="https://github.com/aqibbuttpk">
     <img src="https://komarev.com/ghpvc/?username=aqibbuttpk&style=flat-square&color=blue" alt="Profile Views">
   </a>
- 
   <a href="https://github.com/aqibbuttpk">
     <img src="https://img.shields.io/github/followers/aqibbuttpk?style=social" alt="GitHub Followers">
   </a>
@@ -48,14 +42,7 @@ With over a decade of experience, I specialize in delivering cutting-edge **AI s
 - **Education**: E-learning systems, virtual classrooms, and learning management solutions.
 
 ---
-
-### 💼 Current Roles
-
-- **Software Engineer** at [OOP Technologies](https://www.ooptechnologies.com/)
-- **MERN Stack Developer** at [OOP Technologies](https://www.ooptechnologies.com/)
-
----
-
+ 
 ### 🌐 Connect With Me
 
 <p align="center">
